@@ -1,8 +1,3 @@
-// name: Swenyee Maung
-// Student ID: 220190576
-// version 1
-// date: 18/10/2022
-// Mini Porject Level 1
 import java.util.Scanner; 
 import java.util.Random;
 import java.io.*;
